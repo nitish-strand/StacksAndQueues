@@ -1,0 +1,6 @@
+C:\Users\nitish\source\repos\StackAndQueuesUsingArrays\StackAndQueuesArrays\StackAndQueuesArrays\bin\Debug\StackAndQueuesArrays.exe.config
+C:\Users\nitish\source\repos\StackAndQueuesUsingArrays\StackAndQueuesArrays\StackAndQueuesArrays\bin\Debug\StackAndQueuesArrays.exe
+C:\Users\nitish\source\repos\StackAndQueuesUsingArrays\StackAndQueuesArrays\StackAndQueuesArrays\bin\Debug\StackAndQueuesArrays.pdb
+C:\Users\nitish\source\repos\StackAndQueuesUsingArrays\StackAndQueuesArrays\StackAndQueuesArrays\obj\Debug\StackAndQueuesArrays.csprojAssemblyReference.cache
+C:\Users\nitish\source\repos\StackAndQueuesUsingArrays\StackAndQueuesArrays\StackAndQueuesArrays\obj\Debug\StackAndQueuesArrays.exe
+C:\Users\nitish\source\repos\StackAndQueuesUsingArrays\StackAndQueuesArrays\StackAndQueuesArrays\obj\Debug\StackAndQueuesArrays.pdb
